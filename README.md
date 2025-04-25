@@ -1,6 +1,6 @@
 😎 About Me
 ------
-- 🍔 Hi, I’m Mask. This is my [Juejin Blog](https://juejin.cn/user/1204720472953240/posts) and [Codepen](https://codepen.io/jsmask).
+- 🍔 Hi, I’m Mask. This is my [CSDN Blog](https://blog.csdn.net/weixin_50077637)
 - 🍱 I am a professional React/Vue front-end developer, deeply interested in creative 2D/3D rendering.
 - 🍖 Always learning, always focused! Keep the curiosity alive!
 
@@ -24,9 +24,4 @@
   <a href="https://fps-base-game.netlify.app">FPS Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
-<details>
-  <summary>Github Stats</summary>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=sakurajiajia&show_icons=true&title_color=75564B&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="stats" />
-  </p>
-</details>
+
