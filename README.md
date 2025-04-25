@@ -22,18 +22,11 @@
   <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-holographic-robot">Holographic Gundam</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-train">Lego Train</a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://fps-base-game.netlify.app">FPS Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/jump-game/index.html">Jump Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ornate-caramel-dd8319.netlify.app/#/src/views/pages/3d-card-game">Card Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://2d-duck-hunt.netlify.app/">Duck Hunt Game</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://shilipo-game.netlify.app/">Shilipo Sword Master</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codepen.io/jsmask/full/xxVaOMy">Paper Fish</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/show/02/index.html">The Rivers and Lakes</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://jsmask.github.io/gold-miner/">Gold Miner</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </details>
 
 <details>
   <summary>Github Stats</summary>
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=jsmask&show_icons=true&title_color=75564B&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sakurajiajia&show_icons=true&title_color=75564B&icon_color=75564B&text_color=75564B&bg_color=FFC221" alt="stats" />
   </p>
 </details>
